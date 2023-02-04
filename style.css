@@ -1,0 +1,14 @@
+.form{
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+    border: 2px solid black;
+    margin: 10px auto;
+    justify-content: center;
+    align-items: center;
+}
+.imgLink{
+    width: 100%;
+    border: 2px solid blue;
+    margin: 3px;
+}
